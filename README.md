@@ -21,6 +21,12 @@
 
 ### **3. Λειτουργία & Πρόσβαση στο Backend**
 
+**Λήψη Κώδικα:**
+    Ανοίξτε ένα terminal και εκτελέστε:
+    ```bash
+    git clone [https://github.com/a-chernenok/PoseFit.git](https://github.com/a-chernenok/PoseFit.git)
+    ```
+
 Το backend είναι αναπτυγμένο και φιλοξενείται στον ακόλουθο server, ο οποίος διαχειρίζεται όλες τις λειτουργίες αποθήκευσης και ανάκτησης δεδομένων για την εφαρμογή PoseFit.
 
 * **URL Βάσης για τα Backend APIs:** `https://archontis.sites.sch.gr/posefit/`
